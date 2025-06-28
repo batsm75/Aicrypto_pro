@@ -5,7 +5,8 @@ Terminal Python untuk analisis crypto & forex lengkap dengan harga real-time, in
 
 ---
 
-✨ Fitur: ✅ Harga crypto & forex real-time
+✨ Fitur: 
+✅ Harga crypto & forex real-time
 ✅ Indikator teknikal (RSI, EMA)
 ✅ AI coach trading & psikologi market 🤖
 ✅ Ringkasan berita pasar otomatis 📰
