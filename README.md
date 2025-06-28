@@ -65,6 +65,8 @@ Salin dan tempel 1 perintah ini untuk langsung menjalankan Aicrypto_pro:
 
 pkg update -y && pkg upgrade -y && termux-setup-storage && pkg install git python -y && pip install numpy && git clone https://github.com/batsm75/Aicrypto_pro && cd Aicrypto_pro && python main.py
 
+(Jika di suruh tekan huruf, maka pilih Huruf Y atau Ya apapun opsinya karena itu bagian dari proses penginstalan di terminal termux ya!)
+
 
 ---
 
